@@ -21,7 +21,7 @@
 
 6. ¿Qué es HTML ?
 - 
-
+![html](C:\Repositorios\2425-smx2-a1-Introducci-a-Markdown)
 
 7. ¿Qué es CSS?
 -
