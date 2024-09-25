@@ -26,3 +26,4 @@
 7. ¿Qué es CSS?
 -
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+![html 2](C:\Repositorios\2425-smx2-a1-Introducci-a-Markdown)
